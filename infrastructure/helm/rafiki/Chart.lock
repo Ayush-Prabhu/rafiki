@@ -1,7 +1,7 @@
 dependencies:
 - name: redis
   repository: https://charts.bitnami.com/bitnami
-  version: 18.0.4
+  version: 18.1.1
 - name: postgresql
   repository: https://charts.bitnami.com/bitnami
   version: 12.12.4
@@ -14,5 +14,5 @@ dependencies:
 - name: rafiki-frontend
   repository: https://interledger.github.io/helm-charts
   version: 0.2.0
-digest: sha256:751ffe8542e77bc8480386050b68a716c1b9d0acd2a50ee91dad8d74b5e97530
-generated: "2023-09-20T13:41:55.911426254Z"
+digest: sha256:0855e9cf3ec817358ff6adc4a7af0704929426f60cb2164fe34cf656d49f27a1
+generated: "2023-09-29T17:04:19.879669523Z"
