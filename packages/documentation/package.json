@@ -14,7 +14,7 @@
     "@interledger/docs-design-system": "^0.0.12",
     "@types/react": "^18.2.22",
     "@types/react-dom": "^18.2.7",
-    "astro": "3.1.1",
+    "astro": "3.2.2",
     "astro-graphql-plugin": "^0.1.0",
     "graphql": "^16.8.0",
     "react": "^18.2.0",
